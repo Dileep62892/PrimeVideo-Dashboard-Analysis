@@ -11,7 +11,7 @@ This repository contains a comprehensive dashboard for analyzing Prime Video con
 - Breakdown of content types between movies and TV shows
 
 ## Datasource
-The data for this dashboard is sourced from Prime Video's public content listings, available on Kaggle. You can access the dataset here "https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows", which includes metadata on cast, country, date added, description, director, duration, genre, rating, release year, and title type.
+The data for this dashboard is sourced from Prime Video's public content listings, available on Kaggle. You can access the dataset [here](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows), which includes metadata on cast, country, date added, description, director, duration, genre, rating, release year, and title type.
 
 ## Usage
 To use this dashboard:
@@ -25,3 +25,4 @@ The dashboard includes several filters to refine the data:
 - Genre: Select specific genres to view related titles.
 - Directors: Choose directors to see their associated works.
 
+###Note : Use this [link](https://www.novypro.com/profile_projects/dileepb) to customize the data display using the slicers and filters.
